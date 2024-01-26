@@ -1,0 +1,10 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Other environment folders
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
